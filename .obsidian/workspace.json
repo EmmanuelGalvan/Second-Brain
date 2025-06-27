@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "f3eb8f8f72748697",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4ffef46c25cb841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a73c2e082acd64e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0102 Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0102 Git"
+            }
+          },
+          {
+            "id": "b3e76620c9341dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nota de paso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota de paso"
+            }
+          },
+          {
+            "id": "45d1ed83007424ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nota de paso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nota de paso"
+            }
+          },
+          {
+            "id": "7cf0e28fd1cfe9d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0101 Console.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0101 Console"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6fc87d25277fa00",
+    "type": "split",
+    "children": [
+      {
+        "id": "c87981cd10a7331d",
+        "type": "tabs",
+        "dimension": 25.376344086021508,
+        "children": [
+          {
+            "id": "6e594715af5cf5a4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "18436f48b46a7c33",
+        "type": "tabs",
+        "dimension": 74.6236559139785,
+        "children": [
+          {
+            "id": "8666e7a9047ae055",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b594665577e618c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9750e370139effb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b61c437f64c98f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8f09d3cb8172cda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c6a48bb6d94ab59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "55220e98e5516f61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8b6285b65cad4a14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1adf1f68da3c5010",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8666e7a9047ae055",
+  "lastOpenFiles": [
+    "9901 Rutina de Ejercicio.md",
+    "Nota de paso.md",
+    "0201 Programming 1 Essentials.md",
+    "0200 SAS.md",
+    "0102 Git.md",
+    "0101 Console.md",
+    "0100 Git and Console.md",
+    "0000 Index.md",
+    "Rutina de Ejercicio.md",
+    "Bibliografia/PDF/Intermediate Git Chap2.pdf",
+    "Bibliografia/PDF/chapter2.pdf",
+    "Bibliografia/PDF/Intermediate Git Chap1.pdf",
+    "Templates/Basic Note Template.md",
+    "Bibliografia/PDF/Introduction to Git Chap2.pdf",
+    "Bibliografia/PDF/Introduction to Git Chap1.pdf",
+    "Bibliografia/PDF",
+    "Bibliografia",
+    "2025-06-18.md"
+  ]
+}
