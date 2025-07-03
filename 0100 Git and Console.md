@@ -9,8 +9,10 @@ Last update: 2025-03-30 02:16
 
 Introduction to Git version control and console has interface.
 - [[0101 Console|0101 Console]]
-- [[0102 Git|0102 Git]]
-- [[0103 GitHub|0103 GitHub]]
-
+* [[0102 Definition]]
+* [[0103 Initiation]]
+- [[0104 Basic Workflow]]
+- [[0105 Track of changes]]
+- 
 ---
 Reference:
